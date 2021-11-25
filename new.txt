@@ -1,5 +1,9 @@
 ##New File
 #txtFile
+<<<<<<< HEAD
 
 God Bless All!!!!
 Books are our Best Friends!!
+=======
+Welcome to Capgemini
+>>>>>>> 1d38c59e780f7e28875cde8bd4b03025237e97f6
